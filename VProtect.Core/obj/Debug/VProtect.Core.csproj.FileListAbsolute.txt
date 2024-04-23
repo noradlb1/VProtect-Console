@@ -1,0 +1,15 @@
+C:\Users\Inx\Desktop\VProtect\VProtect.Core\obj\Debug\VProtect.Core.csprojAssemblyReference.cache
+C:\Users\Inx\Desktop\VProtect\VProtect.Core\obj\Debug\VProtect.Core.csproj.CoreCompileInputs.cache
+C:\Users\Inx\Desktop\VProtect\VBuild\Framework\VProtect.Core.dll
+C:\Users\Inx\Desktop\VProtect\VBuild\Framework\VProtect.Core.pdb
+C:\Users\Inx\Desktop\VProtect\VProtect.Core\obj\Debug\VProtect.Core.csproj.CopyComplete
+C:\Users\Inx\Desktop\VProtect\VProtect.Core\obj\Debug\VProtect.Core.dll
+C:\Users\Inx\Desktop\VProtect\VProtect.Core\obj\Debug\VProtect.Core.pdb
+C:\Users\MONSTERMC\Downloads\Desktop\VProtect\VBuild\Framework\VProtect.Core.dll
+C:\Users\MONSTERMC\Downloads\Desktop\VProtect\VBuild\Framework\VProtect.Core.pdb
+C:\Users\MONSTERMC\Downloads\Desktop\VProtect\VProtect.Core\obj\Debug\VProtect.Core.csproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Downloads\Desktop\VProtect\VProtect.Core\obj\Debug\VProtect.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTERMC\Downloads\Desktop\VProtect\VProtect.Core\obj\Debug\VProtect.Core.csproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\Desktop\VProtect\VProtect.Core\obj\Debug\VProtect.Core.csproj.CopyComplete
+C:\Users\MONSTERMC\Downloads\Desktop\VProtect\VProtect.Core\obj\Debug\VProtect.Core.dll
+C:\Users\MONSTERMC\Downloads\Desktop\VProtect\VProtect.Core\obj\Debug\VProtect.Core.pdb

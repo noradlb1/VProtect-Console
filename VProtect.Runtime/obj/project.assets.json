@@ -1,0 +1,59 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v3.5": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v3.5": []
+  },
+  "packageFolders": {
+    "C:\\Users\\MONSTERMC\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\MONSTERMC\\Downloads\\Desktop\\VProtect\\VProtect.Runtime\\VProtect.Runtime.csproj",
+      "projectName": "VProtect.Runtime",
+      "projectPath": "C:\\Users\\MONSTERMC\\Downloads\\Desktop\\VProtect\\VProtect.Runtime\\VProtect.Runtime.csproj",
+      "packagesPath": "C:\\Users\\MONSTERMC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MONSTERMC\\Downloads\\Desktop\\VProtect\\VProtect.Runtime\\obj\\",
+      "projectStyle": "PackageReference",
+      "crossTargeting": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\MONSTERMC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net35"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\MONSTERMC\\source\\repos\\MicrosoftTool\\MicrosoftTool": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net35": {
+          "targetAlias": "net35",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net35": {
+        "targetAlias": "net35",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.115\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

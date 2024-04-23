@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFrameworks>net48</TargetFrameworks>
+		<OutputType>Exe</OutputType>
+		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+		<LangVersion>default</LangVersion>
+		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+		<EnableDefaultGlobalUsings>false</EnableDefaultGlobalUsings>
+		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+		<AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(TargetFramework)' == 'net48'">
+		<OutputPath>..\VBuild\Framework</OutputPath>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="dnlib" Version="3.6.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\VProtect.Core\VProtect.Core.csproj" />
+	</ItemGroup>
+
+</Project>
