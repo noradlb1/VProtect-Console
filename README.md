@@ -10,8 +10,8 @@ DeepRET From : TU
 
 ![](v2.PNG)
 
-![](DeepRET3.PNG)
+![](DeepRET1.jpg)
 
-![](DeepRET1.PNG)
+![](DeepRET2.jpg)
 
-![](DeepRET2.PNG)
+![](DeepRET3.jpg)
